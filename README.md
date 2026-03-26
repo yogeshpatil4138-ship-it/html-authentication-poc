@@ -26,9 +26,7 @@ Features
 - **Bootstrap Icons**: Visual cues for form inputs.
 
 ## 📸 Visual Previews
-| Page | Preview |
 | **Login** | ![Index page](screenshots/login.png)
 | **Dashboard** | ![Dashboard](screenshots/dashboard.png)
-| **Register** | ![Register](screenshots/register.png)
 | **reset-password** | ![Reset-password](screenshots/reset-password.png)
 | **forgot-password** | ![Forgot-password](screenshots/forgot-password.png)
