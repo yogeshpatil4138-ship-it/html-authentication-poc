@@ -1,14 +1,4 @@
-# 🛡️ Professional Authentication System (Styled)
-
-This project is a fully responsive, 5-page authentication system built as a Proof of Concept (POC). It has been upgraded from plain HTML to a modern web interface using **Bootstrap 5**, **Custom CSS3**, and **Google Fonts**.
-
-Features
-- **Bootstrap 5 Integration:** Utilizes cards, navbars, and the mobile-first grid system.
-- **Custom UI/UX:** Features a professional purple-to-indigo gradient background.
-- **Interactive Elements:** Smooth CSS transitions and hover effects on all buttons and cards.
-- **Typography:** Integrated 'Poppins' Google Font for a clean, modern look.
-- **Iconography:** Bootstrap Icons used for form fields and navigation.
-- **Fully Responsive:** Optimized for Mobile (320px+), Tablet, and Desktop screens.
+It has been upgraded from plain HTML to a modern web interface using **Bootstrap 5**, **Custom CSS3**, and **Google Fonts**.
 
 📁 Project Structure
 - `index.html`: The main Login page (centered card layout).
