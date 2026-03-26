@@ -27,6 +27,7 @@ Features
 
 ## 📸 Visual Previews
 | **Login** | ![Index page](screenshots/login.png)
+| **Register** | ![Register](screenshots/register.png)
 | **Dashboard** | ![Dashboard](screenshots/dashboard.png)
 | **reset-password** | ![Reset-password](screenshots/reset-password.png)
 | **forgot-password** | ![Forgot-password](screenshots/forgot-password.png)
