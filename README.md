@@ -20,4 +20,4 @@ It has been upgraded from plain HTML to a modern web interface using **Bootstrap
 | **Register** | ![Register](screenshots/Register.png)
 | **Dashboard** | ![Dashboard](screenshots/dashboard.png)
 | **reset-password** | ![Reset-password](screenshots/reset-password.png)
-| **forgot-password** | ![Forgot-password](screenshots/forgot-password.png)
+| **forgot-password** | ![Forgot-password](screenshots/forgot-password.png).
